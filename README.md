@@ -20,6 +20,10 @@
   <a href="https://www.linkedin.com/in/lucas-o-117366212" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://wa.me/qr/IQD6HSDBH3MOE1" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
  
-  ![Snake animation](https://github.com/SLucas-code/SLucas-code/blob/output/github-contribution-grid-snake.svg)
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SLucas-code/SLucas-code/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SLucas-code/SLucas-code/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SLucas-code/SLucas-code/output/github-contribution-grid-snake.svg">
+</picture>
  
 </div>
