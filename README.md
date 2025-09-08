@@ -1,4 +1,31 @@
-## Lucas Ornelas!
+## Lucas Ornelas! 
+
+👨‍💻 Sobre mim
+
+Estudante de Análise e Desenvolvimento de Sistemas 
+
+💡 Competências
+
+Linguagens: HTML, CSS, JavaScript, PHP e Python
+
+Banco de Dados: MySQL
+
+Ferramentas: Git, GitHub, VSCode
+
+Fundamentos: Lógica de Programação, Algoritmos, Estrutura de Dados
+
+📌 Projeto em destaque
+
+Cadastro de Usuários: aplicação web com validações de CPF, CEP e senha, desenvolvida em HTML, CSS e JavaScript.
+
+🌍 Idiomas
+
+Português: Nativo
+Espanhol: Intermediário
+Inglês: Intermediário
+
+Tenho facilidade para trabalho em equipe, aprendizado rápido e grande interesse em desenvolvimento web e aplicações mobile.
+
  <div>
   <a href="https://github.com/SLucas-Dev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SLucas-Dev&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
@@ -8,7 +35,8 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
+  <img align="center" alt="Rafa-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
+  <img align="center" alt="Rafa-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
 </div>
   
