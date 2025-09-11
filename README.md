@@ -1,8 +1,8 @@
-## Lucas Ornelas! 
+## 🐱‍👤 Lucas Ornelas! 
 
 👨‍💻 Sobre mim
 
-Estudante de Análise e Desenvolvimento de Sistemas 
+Estudante de Análise e Desenvolvimento de Sistemas pelo Centro Universitário Augusto Motta (UNISUAM), atualmente no 2º período (previsão de conclusão em 2027).
 
 💡 Competências
 
@@ -28,8 +28,8 @@ Tenho facilidade para trabalho em equipe, aprendizado rápido e grande interesse
 
  <div>
   <a href="https://github.com/SLucas-Dev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SLucas-Dev&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SLucas-Dev&layout=compact&langs_count=16&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SLucas-Dev&theme=aura&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SLucas-Dev&layout=compact&langs_count=16&theme=aura"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
